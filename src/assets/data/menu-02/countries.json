@@ -1,0 +1,2064 @@
+{
+    "id": "-1",
+    "name": "ROOT",
+    "children": [
+        {
+            "id": "1",
+            "parentId": "-1",
+            "level": 1,
+            "attributes": {
+                "title": "Asia",
+                "parentName": "countries",
+                "parentDir": "/home/tadams/Pictures/countries",
+                "images": []
+            },
+            "name": "asia",
+            "children": [
+                {
+                    "id": "7",
+                    "parentId": "1",
+                    "level": 2,
+                    "attributes": {
+                        "title": "Japan",
+                        "parentName": "asia",
+                        "parentDir": "/home/tadams/Pictures/countries/asia",
+                        "images": [
+                            "/home/tadams/Pictures/countries/asia/japan/japan.jpg",
+                            "/home/tadams/Pictures/countries/asia/japan/flag-japan.png"
+                        ]
+                    },
+                    "name": "japan",
+                    "children": [
+                        {
+                            "id": "11",
+                            "parentId": "7",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Kyoto",
+                                "parentName": "japan",
+                                "parentDir": "/home/tadams/Pictures/countries/asia/japan",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/asia/japan/kyoto/kyoto.jpg"
+                                ]
+                            },
+                            "name": "kyoto",
+                            "children": []
+                        },
+                        {
+                            "id": "12",
+                            "parentId": "7",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Osaka",
+                                "parentName": "japan",
+                                "parentDir": "/home/tadams/Pictures/countries/asia/japan",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/asia/japan/osaka/osaka.jpg"
+                                ]
+                            },
+                            "name": "osaka",
+                            "children": []
+                        },
+                        {
+                            "id": "13",
+                            "parentId": "7",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Tokyo",
+                                "parentName": "japan",
+                                "parentDir": "/home/tadams/Pictures/countries/asia/japan",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/asia/japan/tokyo/tokyo.jpg"
+                                ]
+                            },
+                            "name": "tokyo",
+                            "children": []
+                        },
+                        {
+                            "id": "14",
+                            "parentId": "7",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Yokohama",
+                                "parentName": "japan",
+                                "parentDir": "/home/tadams/Pictures/countries/asia/japan",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/asia/japan/yokohama/yokohama.png"
+                                ]
+                            },
+                            "name": "yokohama",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "8",
+                    "parentId": "1",
+                    "level": 2,
+                    "attributes": {
+                        "title": "China",
+                        "parentName": "asia",
+                        "parentDir": "/home/tadams/Pictures/countries/asia",
+                        "images": [
+                            "/home/tadams/Pictures/countries/asia/china/flag-china.png",
+                            "/home/tadams/Pictures/countries/asia/china/china.jpg"
+                        ]
+                    },
+                    "name": "china",
+                    "children": [
+                        {
+                            "id": "15",
+                            "parentId": "8",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Beijing",
+                                "parentName": "china",
+                                "parentDir": "/home/tadams/Pictures/countries/asia/china",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/asia/china/beijing/beijing.png"
+                                ]
+                            },
+                            "name": "beijing",
+                            "children": []
+                        },
+                        {
+                            "id": "16",
+                            "parentId": "8",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Guangzhou",
+                                "parentName": "china",
+                                "parentDir": "/home/tadams/Pictures/countries/asia/china",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/asia/china/guangzhou/guangzhou.png"
+                                ]
+                            },
+                            "name": "guangzhou",
+                            "children": []
+                        },
+                        {
+                            "id": "17",
+                            "parentId": "8",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Chongqing",
+                                "parentName": "china",
+                                "parentDir": "/home/tadams/Pictures/countries/asia/china",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/asia/china/chongqing/chongqing.png"
+                                ]
+                            },
+                            "name": "chongqing",
+                            "children": []
+                        },
+                        {
+                            "id": "18",
+                            "parentId": "8",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Shanghai",
+                                "parentName": "china",
+                                "parentDir": "/home/tadams/Pictures/countries/asia/china",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/asia/china/shanghai/shanghai.png"
+                                ]
+                            },
+                            "name": "shanghai",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "9",
+                    "parentId": "1",
+                    "level": 2,
+                    "attributes": {
+                        "title": "Thailand",
+                        "parentName": "asia",
+                        "parentDir": "/home/tadams/Pictures/countries/asia",
+                        "images": [
+                            "/home/tadams/Pictures/countries/asia/thailand/flag-thailand.png",
+                            "/home/tadams/Pictures/countries/asia/thailand/thailand.jpg"
+                        ]
+                    },
+                    "name": "thailand",
+                    "children": [
+                        {
+                            "id": "19",
+                            "parentId": "9",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Pattaya",
+                                "parentName": "thailand",
+                                "parentDir": "/home/tadams/Pictures/countries/asia/thailand",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/asia/thailand/pattaya/pattaya.jpg"
+                                ]
+                            },
+                            "name": "pattaya",
+                            "children": []
+                        },
+                        {
+                            "id": "20",
+                            "parentId": "9",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Bangkok",
+                                "parentName": "thailand",
+                                "parentDir": "/home/tadams/Pictures/countries/asia/thailand",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/asia/thailand/bangkok/bangkok.jpg"
+                                ]
+                            },
+                            "name": "bangkok",
+                            "children": []
+                        },
+                        {
+                            "id": "21",
+                            "parentId": "9",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Chiang mai",
+                                "parentName": "thailand",
+                                "parentDir": "/home/tadams/Pictures/countries/asia/thailand",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/asia/thailand/chiang-mai/chiang-mai.png"
+                                ]
+                            },
+                            "name": "chiang-mai",
+                            "children": []
+                        },
+                        {
+                            "id": "22",
+                            "parentId": "9",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Phuket",
+                                "parentName": "thailand",
+                                "parentDir": "/home/tadams/Pictures/countries/asia/thailand",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/asia/thailand/phuket/phuket.jpg"
+                                ]
+                            },
+                            "name": "phuket",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "10",
+                    "parentId": "1",
+                    "level": 2,
+                    "attributes": {
+                        "title": "India",
+                        "parentName": "asia",
+                        "parentDir": "/home/tadams/Pictures/countries/asia",
+                        "images": [
+                            "/home/tadams/Pictures/countries/asia/india/india.jpg",
+                            "/home/tadams/Pictures/countries/asia/india/flag-india.png"
+                        ]
+                    },
+                    "name": "india",
+                    "children": [
+                        {
+                            "id": "23",
+                            "parentId": "10",
+                            "level": 3,
+                            "attributes": {
+                                "title": "New delhi",
+                                "parentName": "india",
+                                "parentDir": "/home/tadams/Pictures/countries/asia/india",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/asia/india/new-delhi/new-dehli.jpg"
+                                ]
+                            },
+                            "name": "new-delhi",
+                            "children": []
+                        },
+                        {
+                            "id": "24",
+                            "parentId": "10",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Mumbai",
+                                "parentName": "india",
+                                "parentDir": "/home/tadams/Pictures/countries/asia/india",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/asia/india/mumbai/mumbai.png"
+                                ]
+                            },
+                            "name": "mumbai",
+                            "children": []
+                        },
+                        {
+                            "id": "25",
+                            "parentId": "10",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Hyderabad",
+                                "parentName": "india",
+                                "parentDir": "/home/tadams/Pictures/countries/asia/india",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/asia/india/hyderabad/hyderabad.png"
+                                ]
+                            },
+                            "name": "hyderabad",
+                            "children": []
+                        },
+                        {
+                            "id": "26",
+                            "parentId": "10",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Bangalore",
+                                "parentName": "india",
+                                "parentDir": "/home/tadams/Pictures/countries/asia/india",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/asia/india/bangalore/bangalore.png"
+                                ]
+                            },
+                            "name": "bangalore",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "parentId": "-1",
+            "level": 1,
+            "attributes": {
+                "title": "North america",
+                "parentName": "countries",
+                "parentDir": "/home/tadams/Pictures/countries",
+                "images": []
+            },
+            "name": "north-america",
+            "children": [
+                {
+                    "id": "27",
+                    "parentId": "2",
+                    "level": 2,
+                    "attributes": {
+                        "title": "Usa",
+                        "parentName": "north-america",
+                        "parentDir": "/home/tadams/Pictures/countries/north-america",
+                        "images": [
+                            "/home/tadams/Pictures/countries/north-america/usa/flag-usa.png",
+                            "/home/tadams/Pictures/countries/north-america/usa/usa.jpg"
+                        ]
+                    },
+                    "name": "usa",
+                    "children": [
+                        {
+                            "id": "31",
+                            "parentId": "27",
+                            "level": 3,
+                            "attributes": {
+                                "title": "New york",
+                                "parentName": "usa",
+                                "parentDir": "/home/tadams/Pictures/countries/north-america/usa",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/north-america/usa/new-york/new-york.jpg"
+                                ]
+                            },
+                            "name": "new-york",
+                            "children": []
+                        },
+                        {
+                            "id": "32",
+                            "parentId": "27",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Phoenix",
+                                "parentName": "usa",
+                                "parentDir": "/home/tadams/Pictures/countries/north-america/usa",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/north-america/usa/phoenix/phoenix.jpg"
+                                ]
+                            },
+                            "name": "phoenix",
+                            "children": []
+                        },
+                        {
+                            "id": "33",
+                            "parentId": "27",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Chicago",
+                                "parentName": "usa",
+                                "parentDir": "/home/tadams/Pictures/countries/north-america/usa",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/north-america/usa/chicago/chicago.jpg"
+                                ]
+                            },
+                            "name": "chicago",
+                            "children": []
+                        },
+                        {
+                            "id": "34",
+                            "parentId": "27",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Los angeles",
+                                "parentName": "usa",
+                                "parentDir": "/home/tadams/Pictures/countries/north-america/usa",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/north-america/usa/los-angeles/los-angeles.jpg"
+                                ]
+                            },
+                            "name": "los-angeles",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "28",
+                    "parentId": "2",
+                    "level": 2,
+                    "attributes": {
+                        "title": "Cuba",
+                        "parentName": "north-america",
+                        "parentDir": "/home/tadams/Pictures/countries/north-america",
+                        "images": [
+                            "/home/tadams/Pictures/countries/north-america/cuba/cuba.jpg",
+                            "/home/tadams/Pictures/countries/north-america/cuba/flag-cuba.png"
+                        ]
+                    },
+                    "name": "cuba",
+                    "children": [
+                        {
+                            "id": "35",
+                            "parentId": "28",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Santa clara",
+                                "parentName": "cuba",
+                                "parentDir": "/home/tadams/Pictures/countries/north-america/cuba",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/north-america/cuba/santa-clara/santa-clara.jpg"
+                                ]
+                            },
+                            "name": "santa-clara",
+                            "children": []
+                        },
+                        {
+                            "id": "36",
+                            "parentId": "28",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Santiago de cuba",
+                                "parentName": "cuba",
+                                "parentDir": "/home/tadams/Pictures/countries/north-america/cuba",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/north-america/cuba/santiago-de-cuba/santiago-de-cuba.jpg"
+                                ]
+                            },
+                            "name": "santiago-de-cuba",
+                            "children": []
+                        },
+                        {
+                            "id": "37",
+                            "parentId": "28",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Camaguey",
+                                "parentName": "cuba",
+                                "parentDir": "/home/tadams/Pictures/countries/north-america/cuba",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/north-america/cuba/camaguey/camaguey.jpg"
+                                ]
+                            },
+                            "name": "camaguey",
+                            "children": []
+                        },
+                        {
+                            "id": "38",
+                            "parentId": "28",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Havana",
+                                "parentName": "cuba",
+                                "parentDir": "/home/tadams/Pictures/countries/north-america/cuba",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/north-america/cuba/havana/havana.jpg"
+                                ]
+                            },
+                            "name": "havana",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "29",
+                    "parentId": "2",
+                    "level": 2,
+                    "attributes": {
+                        "title": "Canada",
+                        "parentName": "north-america",
+                        "parentDir": "/home/tadams/Pictures/countries/north-america",
+                        "images": [
+                            "/home/tadams/Pictures/countries/north-america/canada/canada.jpg",
+                            "/home/tadams/Pictures/countries/north-america/canada/flag-canada.png"
+                        ]
+                    },
+                    "name": "canada",
+                    "children": [
+                        {
+                            "id": "39",
+                            "parentId": "29",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Toronto",
+                                "parentName": "canada",
+                                "parentDir": "/home/tadams/Pictures/countries/north-america/canada",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/north-america/canada/toronto/toronto.jpg"
+                                ]
+                            },
+                            "name": "toronto",
+                            "children": []
+                        },
+                        {
+                            "id": "40",
+                            "parentId": "29",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Edmonton",
+                                "parentName": "canada",
+                                "parentDir": "/home/tadams/Pictures/countries/north-america/canada",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/north-america/canada/edmonton/edmonton.jpg"
+                                ]
+                            },
+                            "name": "edmonton",
+                            "children": []
+                        },
+                        {
+                            "id": "41",
+                            "parentId": "29",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Vancouver",
+                                "parentName": "canada",
+                                "parentDir": "/home/tadams/Pictures/countries/north-america/canada",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/north-america/canada/vancouver/vancouver.jpg"
+                                ]
+                            },
+                            "name": "vancouver",
+                            "children": []
+                        },
+                        {
+                            "id": "42",
+                            "parentId": "29",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Montreal",
+                                "parentName": "canada",
+                                "parentDir": "/home/tadams/Pictures/countries/north-america/canada",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/north-america/canada/montreal/montreal.jpg"
+                                ]
+                            },
+                            "name": "montreal",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "30",
+                    "parentId": "2",
+                    "level": 2,
+                    "attributes": {
+                        "title": "Mexico",
+                        "parentName": "north-america",
+                        "parentDir": "/home/tadams/Pictures/countries/north-america",
+                        "images": [
+                            "/home/tadams/Pictures/countries/north-america/mexico/mexico.jpg",
+                            "/home/tadams/Pictures/countries/north-america/mexico/flag-mexico.png"
+                        ]
+                    },
+                    "name": "mexico",
+                    "children": [
+                        {
+                            "id": "43",
+                            "parentId": "30",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Mexico city",
+                                "parentName": "mexico",
+                                "parentDir": "/home/tadams/Pictures/countries/north-america/mexico",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/north-america/mexico/mexico-city/mexico-city.jpg"
+                                ]
+                            },
+                            "name": "mexico-city",
+                            "children": []
+                        },
+                        {
+                            "id": "44",
+                            "parentId": "30",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Monterrey",
+                                "parentName": "mexico",
+                                "parentDir": "/home/tadams/Pictures/countries/north-america/mexico",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/north-america/mexico/monterrey/monterrey.jpg"
+                                ]
+                            },
+                            "name": "monterrey",
+                            "children": []
+                        },
+                        {
+                            "id": "45",
+                            "parentId": "30",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Puebla",
+                                "parentName": "mexico",
+                                "parentDir": "/home/tadams/Pictures/countries/north-america/mexico",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/north-america/mexico/puebla/puebla.jpg"
+                                ]
+                            },
+                            "name": "puebla",
+                            "children": []
+                        },
+                        {
+                            "id": "46",
+                            "parentId": "30",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Guadalajara",
+                                "parentName": "mexico",
+                                "parentDir": "/home/tadams/Pictures/countries/north-america/mexico",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/north-america/mexico/guadalajara/guadalajara.jpg"
+                                ]
+                            },
+                            "name": "guadalajara",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "parentId": "-1",
+            "level": 1,
+            "attributes": {
+                "title": "Africa",
+                "parentName": "countries",
+                "parentDir": "/home/tadams/Pictures/countries",
+                "images": []
+            },
+            "name": "africa",
+            "children": [
+                {
+                    "id": "47",
+                    "parentId": "3",
+                    "level": 2,
+                    "attributes": {
+                        "title": "Egypt",
+                        "parentName": "africa",
+                        "parentDir": "/home/tadams/Pictures/countries/africa",
+                        "images": [
+                            "/home/tadams/Pictures/countries/africa/egypt/egypt.jpg",
+                            "/home/tadams/Pictures/countries/africa/egypt/flag-egypt.png"
+                        ]
+                    },
+                    "name": "egypt",
+                    "children": [
+                        {
+                            "id": "51",
+                            "parentId": "47",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Giza",
+                                "parentName": "egypt",
+                                "parentDir": "/home/tadams/Pictures/countries/africa/egypt",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/africa/egypt/giza/giza.jpg"
+                                ]
+                            },
+                            "name": "giza",
+                            "children": []
+                        },
+                        {
+                            "id": "52",
+                            "parentId": "47",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Port said",
+                                "parentName": "egypt",
+                                "parentDir": "/home/tadams/Pictures/countries/africa/egypt",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/africa/egypt/port-said/port-said.jpg"
+                                ]
+                            },
+                            "name": "port-said",
+                            "children": []
+                        },
+                        {
+                            "id": "53",
+                            "parentId": "47",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Cairo",
+                                "parentName": "egypt",
+                                "parentDir": "/home/tadams/Pictures/countries/africa/egypt",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/africa/egypt/cairo/cairo.jpg"
+                                ]
+                            },
+                            "name": "cairo",
+                            "children": []
+                        },
+                        {
+                            "id": "54",
+                            "parentId": "47",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Alexandria",
+                                "parentName": "egypt",
+                                "parentDir": "/home/tadams/Pictures/countries/africa/egypt",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/africa/egypt/alexandria/alexandria.jpg"
+                                ]
+                            },
+                            "name": "alexandria",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "48",
+                    "parentId": "3",
+                    "level": 2,
+                    "attributes": {
+                        "title": "Kenya",
+                        "parentName": "africa",
+                        "parentDir": "/home/tadams/Pictures/countries/africa",
+                        "images": [
+                            "/home/tadams/Pictures/countries/africa/kenya/kenya.jpg",
+                            "/home/tadams/Pictures/countries/africa/kenya/flag-kenya.png"
+                        ]
+                    },
+                    "name": "kenya",
+                    "children": [
+                        {
+                            "id": "55",
+                            "parentId": "48",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Nairobi",
+                                "parentName": "kenya",
+                                "parentDir": "/home/tadams/Pictures/countries/africa/kenya",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/africa/kenya/nairobi/nairobi.jpg"
+                                ]
+                            },
+                            "name": "nairobi",
+                            "children": []
+                        },
+                        {
+                            "id": "56",
+                            "parentId": "48",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Mombasa",
+                                "parentName": "kenya",
+                                "parentDir": "/home/tadams/Pictures/countries/africa/kenya",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/africa/kenya/mombasa/mombasa.jpg"
+                                ]
+                            },
+                            "name": "mombasa",
+                            "children": []
+                        },
+                        {
+                            "id": "57",
+                            "parentId": "48",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Kisumu",
+                                "parentName": "kenya",
+                                "parentDir": "/home/tadams/Pictures/countries/africa/kenya",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/africa/kenya/kisumu/kisumu.jpg"
+                                ]
+                            },
+                            "name": "kisumu",
+                            "children": []
+                        },
+                        {
+                            "id": "58",
+                            "parentId": "48",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Nakuru",
+                                "parentName": "kenya",
+                                "parentDir": "/home/tadams/Pictures/countries/africa/kenya",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/africa/kenya/nakuru/nakuru.jpg"
+                                ]
+                            },
+                            "name": "nakuru",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "49",
+                    "parentId": "3",
+                    "level": 2,
+                    "attributes": {
+                        "title": "Algeria",
+                        "parentName": "africa",
+                        "parentDir": "/home/tadams/Pictures/countries/africa",
+                        "images": [
+                            "/home/tadams/Pictures/countries/africa/algeria/flag-algeria.png",
+                            "/home/tadams/Pictures/countries/africa/algeria/algeria.jpg"
+                        ]
+                    },
+                    "name": "algeria",
+                    "children": [
+                        {
+                            "id": "59",
+                            "parentId": "49",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Annaba",
+                                "parentName": "algeria",
+                                "parentDir": "/home/tadams/Pictures/countries/africa/algeria",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/africa/algeria/annaba/annaba.jpg"
+                                ]
+                            },
+                            "name": "annaba",
+                            "children": []
+                        },
+                        {
+                            "id": "60",
+                            "parentId": "49",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Constantine",
+                                "parentName": "algeria",
+                                "parentDir": "/home/tadams/Pictures/countries/africa/algeria",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/africa/algeria/constantine/constantine.jpg"
+                                ]
+                            },
+                            "name": "constantine",
+                            "children": []
+                        },
+                        {
+                            "id": "61",
+                            "parentId": "49",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Algiers",
+                                "parentName": "algeria",
+                                "parentDir": "/home/tadams/Pictures/countries/africa/algeria",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/africa/algeria/algiers/algiers.png"
+                                ]
+                            },
+                            "name": "algiers",
+                            "children": []
+                        },
+                        {
+                            "id": "62",
+                            "parentId": "49",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Oran",
+                                "parentName": "algeria",
+                                "parentDir": "/home/tadams/Pictures/countries/africa/algeria",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/africa/algeria/oran/oran.jpg"
+                                ]
+                            },
+                            "name": "oran",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "50",
+                    "parentId": "3",
+                    "level": 2,
+                    "attributes": {
+                        "title": "South africa",
+                        "parentName": "africa",
+                        "parentDir": "/home/tadams/Pictures/countries/africa",
+                        "images": [
+                            "/home/tadams/Pictures/countries/africa/south-africa/flag-south-africa.png",
+                            "/home/tadams/Pictures/countries/africa/south-africa/south-africa.jpg"
+                        ]
+                    },
+                    "name": "south-africa",
+                    "children": [
+                        {
+                            "id": "63",
+                            "parentId": "50",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Cape town",
+                                "parentName": "south-africa",
+                                "parentDir": "/home/tadams/Pictures/countries/africa/south-africa",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/africa/south-africa/cape-town/cape-town.jpg"
+                                ]
+                            },
+                            "name": "cape-town",
+                            "children": []
+                        },
+                        {
+                            "id": "64",
+                            "parentId": "50",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Johannesburg",
+                                "parentName": "south-africa",
+                                "parentDir": "/home/tadams/Pictures/countries/africa/south-africa",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/africa/south-africa/johannesburg/johannesburg.jpg"
+                                ]
+                            },
+                            "name": "johannesburg",
+                            "children": []
+                        },
+                        {
+                            "id": "65",
+                            "parentId": "50",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Durban",
+                                "parentName": "south-africa",
+                                "parentDir": "/home/tadams/Pictures/countries/africa/south-africa",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/africa/south-africa/durban/durban.jpg"
+                                ]
+                            },
+                            "name": "durban",
+                            "children": []
+                        },
+                        {
+                            "id": "66",
+                            "parentId": "50",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Pretoria",
+                                "parentName": "south-africa",
+                                "parentDir": "/home/tadams/Pictures/countries/africa/south-africa",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/africa/south-africa/pretoria/pretoria.jpg"
+                                ]
+                            },
+                            "name": "pretoria",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "parentId": "-1",
+            "level": 1,
+            "attributes": {
+                "title": "Australia oceania",
+                "parentName": "countries",
+                "parentDir": "/home/tadams/Pictures/countries",
+                "images": []
+            },
+            "name": "australia-oceania",
+            "children": [
+                {
+                    "id": "67",
+                    "parentId": "4",
+                    "level": 2,
+                    "attributes": {
+                        "title": "Vanatu",
+                        "parentName": "australia-oceania",
+                        "parentDir": "/home/tadams/Pictures/countries/australia-oceania",
+                        "images": [
+                            "/home/tadams/Pictures/countries/australia-oceania/vanatu/Vanuatu-e1520492532443.jpg",
+                            "/home/tadams/Pictures/countries/australia-oceania/vanatu/1920px-Flag_of_Vanuatu_(official).svg.png"
+                        ]
+                    },
+                    "name": "vanatu",
+                    "children": [
+                        {
+                            "id": "71",
+                            "parentId": "67",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Port vila",
+                                "parentName": "vanatu",
+                                "parentDir": "/home/tadams/Pictures/countries/australia-oceania/vanatu",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/australia-oceania/vanatu/port-vila/Port_Vila_aerial.jpg"
+                                ]
+                            },
+                            "name": "port-vila",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "68",
+                    "parentId": "4",
+                    "level": 2,
+                    "attributes": {
+                        "title": "New zealand",
+                        "parentName": "australia-oceania",
+                        "parentDir": "/home/tadams/Pictures/countries/australia-oceania",
+                        "images": [
+                            "/home/tadams/Pictures/countries/australia-oceania/new-zealand/flag-new-zealand.png",
+                            "/home/tadams/Pictures/countries/australia-oceania/new-zealand/new-zealand.jpg"
+                        ]
+                    },
+                    "name": "new-zealand",
+                    "children": [
+                        {
+                            "id": "72",
+                            "parentId": "68",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Christchurch",
+                                "parentName": "new-zealand",
+                                "parentDir": "/home/tadams/Pictures/countries/australia-oceania/new-zealand",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/australia-oceania/new-zealand/christchurch/christchurch.jpg"
+                                ]
+                            },
+                            "name": "christchurch",
+                            "children": []
+                        },
+                        {
+                            "id": "73",
+                            "parentId": "68",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Auckland",
+                                "parentName": "new-zealand",
+                                "parentDir": "/home/tadams/Pictures/countries/australia-oceania/new-zealand",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/australia-oceania/new-zealand/auckland/auckland.jpg"
+                                ]
+                            },
+                            "name": "auckland",
+                            "children": []
+                        },
+                        {
+                            "id": "74",
+                            "parentId": "68",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Wellington",
+                                "parentName": "new-zealand",
+                                "parentDir": "/home/tadams/Pictures/countries/australia-oceania/new-zealand",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/australia-oceania/new-zealand/wellington/wellington.jpg"
+                                ]
+                            },
+                            "name": "wellington",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "69",
+                    "parentId": "4",
+                    "level": 2,
+                    "attributes": {
+                        "title": "Fiji",
+                        "parentName": "australia-oceania",
+                        "parentDir": "/home/tadams/Pictures/countries/australia-oceania",
+                        "images": [
+                            "/home/tadams/Pictures/countries/australia-oceania/fiji/fiji.jpg",
+                            "/home/tadams/Pictures/countries/australia-oceania/fiji/flag-fiji.png"
+                        ]
+                    },
+                    "name": "fiji",
+                    "children": [
+                        {
+                            "id": "75",
+                            "parentId": "69",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Suva",
+                                "parentName": "fiji",
+                                "parentDir": "/home/tadams/Pictures/countries/australia-oceania/fiji",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/australia-oceania/fiji/suva/suva.jpg"
+                                ]
+                            },
+                            "name": "suva",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "70",
+                    "parentId": "4",
+                    "level": 2,
+                    "attributes": {
+                        "title": "Australia",
+                        "parentName": "australia-oceania",
+                        "parentDir": "/home/tadams/Pictures/countries/australia-oceania",
+                        "images": [
+                            "/home/tadams/Pictures/countries/australia-oceania/australia/australia.jpg",
+                            "/home/tadams/Pictures/countries/australia-oceania/australia/flag-australia.png"
+                        ]
+                    },
+                    "name": "australia",
+                    "children": [
+                        {
+                            "id": "76",
+                            "parentId": "70",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Perth",
+                                "parentName": "australia",
+                                "parentDir": "/home/tadams/Pictures/countries/australia-oceania/australia",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/australia-oceania/australia/perth/perth.jpg"
+                                ]
+                            },
+                            "name": "perth",
+                            "children": []
+                        },
+                        {
+                            "id": "77",
+                            "parentId": "70",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Sydney",
+                                "parentName": "australia",
+                                "parentDir": "/home/tadams/Pictures/countries/australia-oceania/australia",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/australia-oceania/australia/sydney/sydney.jpg"
+                                ]
+                            },
+                            "name": "sydney",
+                            "children": []
+                        },
+                        {
+                            "id": "78",
+                            "parentId": "70",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Brisbane",
+                                "parentName": "australia",
+                                "parentDir": "/home/tadams/Pictures/countries/australia-oceania/australia",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/australia-oceania/australia/brisbane/brisbane.jpg"
+                                ]
+                            },
+                            "name": "brisbane",
+                            "children": []
+                        },
+                        {
+                            "id": "79",
+                            "parentId": "70",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Melbourne",
+                                "parentName": "australia",
+                                "parentDir": "/home/tadams/Pictures/countries/australia-oceania/australia",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/australia-oceania/australia/melbourne/melbourne.jpg"
+                                ]
+                            },
+                            "name": "melbourne",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "parentId": "-1",
+            "level": 1,
+            "attributes": {
+                "title": "Europe",
+                "parentName": "countries",
+                "parentDir": "/home/tadams/Pictures/countries",
+                "images": []
+            },
+            "name": "europe",
+            "children": [
+                {
+                    "id": "80",
+                    "parentId": "5",
+                    "level": 2,
+                    "attributes": {
+                        "title": "Ireland",
+                        "parentName": "europe",
+                        "parentDir": "/home/tadams/Pictures/countries/europe",
+                        "images": [
+                            "/home/tadams/Pictures/countries/europe/ireland/flag-ireland.png",
+                            "/home/tadams/Pictures/countries/europe/ireland/ireland.jpg"
+                        ]
+                    },
+                    "name": "ireland",
+                    "children": [
+                        {
+                            "id": "87",
+                            "parentId": "80",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Cork",
+                                "parentName": "ireland",
+                                "parentDir": "/home/tadams/Pictures/countries/europe/ireland",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/europe/ireland/cork/Cork_City_Montage_Quick_Collage_of_CC_Commons_Cork_Images.jpg"
+                                ]
+                            },
+                            "name": "cork",
+                            "children": []
+                        },
+                        {
+                            "id": "88",
+                            "parentId": "80",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Limerick",
+                                "parentName": "ireland",
+                                "parentDir": "/home/tadams/Pictures/countries/europe/ireland",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/europe/ireland/limerick/800px-Limerickcitycollage3.jpg"
+                                ]
+                            },
+                            "name": "limerick",
+                            "children": []
+                        },
+                        {
+                            "id": "89",
+                            "parentId": "80",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Dublin",
+                                "parentName": "ireland",
+                                "parentDir": "/home/tadams/Pictures/countries/europe/ireland",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/europe/ireland/dublin/DublinMontage.jpg"
+                                ]
+                            },
+                            "name": "dublin",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "81",
+                    "parentId": "5",
+                    "level": 2,
+                    "attributes": {
+                        "title": "Russia",
+                        "parentName": "europe",
+                        "parentDir": "/home/tadams/Pictures/countries/europe",
+                        "images": [
+                            "/home/tadams/Pictures/countries/europe/russia/russia.jpg",
+                            "/home/tadams/Pictures/countries/europe/russia/flag-russia.png"
+                        ]
+                    },
+                    "name": "russia",
+                    "children": [
+                        {
+                            "id": "90",
+                            "parentId": "81",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Novosibirsk",
+                                "parentName": "russia",
+                                "parentDir": "/home/tadams/Pictures/countries/europe/russia",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/europe/russia/novosibirsk/novosibirsk.png"
+                                ]
+                            },
+                            "name": "novosibirsk",
+                            "children": []
+                        },
+                        {
+                            "id": "91",
+                            "parentId": "81",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Moscow",
+                                "parentName": "russia",
+                                "parentDir": "/home/tadams/Pictures/countries/europe/russia",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/europe/russia/moscow/moscow.png"
+                                ]
+                            },
+                            "name": "moscow",
+                            "children": []
+                        },
+                        {
+                            "id": "92",
+                            "parentId": "81",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Yekaterinburg",
+                                "parentName": "russia",
+                                "parentDir": "/home/tadams/Pictures/countries/europe/russia",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/europe/russia/yekaterinburg/yekaterinburg.png"
+                                ]
+                            },
+                            "name": "yekaterinburg",
+                            "children": []
+                        },
+                        {
+                            "id": "93",
+                            "parentId": "81",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Saint petersburg",
+                                "parentName": "russia",
+                                "parentDir": "/home/tadams/Pictures/countries/europe/russia",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/europe/russia/saint-petersburg/saint-petersburg.png"
+                                ]
+                            },
+                            "name": "saint-petersburg",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "82",
+                    "parentId": "5",
+                    "level": 2,
+                    "attributes": {
+                        "title": "France",
+                        "parentName": "europe",
+                        "parentDir": "/home/tadams/Pictures/countries/europe",
+                        "images": [
+                            "/home/tadams/Pictures/countries/europe/france/flag-france.png",
+                            "/home/tadams/Pictures/countries/europe/france/france.jpg"
+                        ]
+                    },
+                    "name": "france",
+                    "children": [
+                        {
+                            "id": "94",
+                            "parentId": "82",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Paris",
+                                "parentName": "france",
+                                "parentDir": "/home/tadams/Pictures/countries/europe/france",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/europe/france/paris/paris.jpg"
+                                ]
+                            },
+                            "name": "paris",
+                            "children": []
+                        },
+                        {
+                            "id": "95",
+                            "parentId": "82",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Marseille",
+                                "parentName": "france",
+                                "parentDir": "/home/tadams/Pictures/countries/europe/france",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/europe/france/marseille/marseille.jpg"
+                                ]
+                            },
+                            "name": "marseille",
+                            "children": []
+                        },
+                        {
+                            "id": "96",
+                            "parentId": "82",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Lyon",
+                                "parentName": "france",
+                                "parentDir": "/home/tadams/Pictures/countries/europe/france",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/europe/france/lyon/lyon.jpg"
+                                ]
+                            },
+                            "name": "lyon",
+                            "children": []
+                        },
+                        {
+                            "id": "97",
+                            "parentId": "82",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Toulouse",
+                                "parentName": "france",
+                                "parentDir": "/home/tadams/Pictures/countries/europe/france",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/europe/france/toulouse/toulouse.jpg"
+                                ]
+                            },
+                            "name": "toulouse",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "83",
+                    "parentId": "5",
+                    "level": 2,
+                    "attributes": {
+                        "title": "Spain",
+                        "parentName": "europe",
+                        "parentDir": "/home/tadams/Pictures/countries/europe",
+                        "images": [
+                            "/home/tadams/Pictures/countries/europe/spain/flag-spain.png",
+                            "/home/tadams/Pictures/countries/europe/spain/spain.jpg"
+                        ]
+                    },
+                    "name": "spain",
+                    "children": [
+                        {
+                            "id": "98",
+                            "parentId": "83",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Barcelona",
+                                "parentName": "spain",
+                                "parentDir": "/home/tadams/Pictures/countries/europe/spain",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/europe/spain/barcelona/barcelona.JPG"
+                                ]
+                            },
+                            "name": "barcelona",
+                            "children": []
+                        },
+                        {
+                            "id": "99",
+                            "parentId": "83",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Seville",
+                                "parentName": "spain",
+                                "parentDir": "/home/tadams/Pictures/countries/europe/spain",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/europe/spain/seville/seville.png"
+                                ]
+                            },
+                            "name": "seville",
+                            "children": []
+                        },
+                        {
+                            "id": "100",
+                            "parentId": "83",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Madrid",
+                                "parentName": "spain",
+                                "parentDir": "/home/tadams/Pictures/countries/europe/spain",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/europe/spain/madrid/madrid.jpg"
+                                ]
+                            },
+                            "name": "madrid",
+                            "children": []
+                        },
+                        {
+                            "id": "101",
+                            "parentId": "83",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Valencia",
+                                "parentName": "spain",
+                                "parentDir": "/home/tadams/Pictures/countries/europe/spain",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/europe/spain/valencia/valencia.jpg"
+                                ]
+                            },
+                            "name": "valencia",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "84",
+                    "parentId": "5",
+                    "level": 2,
+                    "attributes": {
+                        "title": "Portugal",
+                        "parentName": "europe",
+                        "parentDir": "/home/tadams/Pictures/countries/europe",
+                        "images": [
+                            "/home/tadams/Pictures/countries/europe/portugal/portugal.jpg",
+                            "/home/tadams/Pictures/countries/europe/portugal/flag-portugal.png"
+                        ]
+                    },
+                    "name": "portugal",
+                    "children": [
+                        {
+                            "id": "102",
+                            "parentId": "84",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Gaia",
+                                "parentName": "portugal",
+                                "parentDir": "/home/tadams/Pictures/countries/europe/portugal",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/europe/portugal/gaia/gaia.jpg"
+                                ]
+                            },
+                            "name": "gaia",
+                            "children": []
+                        },
+                        {
+                            "id": "103",
+                            "parentId": "84",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Lisbon",
+                                "parentName": "portugal",
+                                "parentDir": "/home/tadams/Pictures/countries/europe/portugal",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/europe/portugal/lisbon/lisbon.png"
+                                ]
+                            },
+                            "name": "lisbon",
+                            "children": []
+                        },
+                        {
+                            "id": "104",
+                            "parentId": "84",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Porto",
+                                "parentName": "portugal",
+                                "parentDir": "/home/tadams/Pictures/countries/europe/portugal",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/europe/portugal/porto/porto.png"
+                                ]
+                            },
+                            "name": "porto",
+                            "children": []
+                        },
+                        {
+                            "id": "105",
+                            "parentId": "84",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Braga",
+                                "parentName": "portugal",
+                                "parentDir": "/home/tadams/Pictures/countries/europe/portugal",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/europe/portugal/braga/braga.png"
+                                ]
+                            },
+                            "name": "braga",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "85",
+                    "parentId": "5",
+                    "level": 2,
+                    "attributes": {
+                        "title": "Sweden",
+                        "parentName": "europe",
+                        "parentDir": "/home/tadams/Pictures/countries/europe",
+                        "images": [
+                            "/home/tadams/Pictures/countries/europe/sweden/sweden.jpg",
+                            "/home/tadams/Pictures/countries/europe/sweden/flag-sweden.png"
+                        ]
+                    },
+                    "name": "sweden",
+                    "children": [
+                        {
+                            "id": "106",
+                            "parentId": "85",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Stockholm",
+                                "parentName": "sweden",
+                                "parentDir": "/home/tadams/Pictures/countries/europe/sweden",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/europe/sweden/stockholm/stockholm.jpg"
+                                ]
+                            },
+                            "name": "stockholm",
+                            "children": []
+                        },
+                        {
+                            "id": "107",
+                            "parentId": "85",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Uppsala",
+                                "parentName": "sweden",
+                                "parentDir": "/home/tadams/Pictures/countries/europe/sweden",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/europe/sweden/uppsala/uppsala.jpg"
+                                ]
+                            },
+                            "name": "uppsala",
+                            "children": []
+                        },
+                        {
+                            "id": "108",
+                            "parentId": "85",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Malmo",
+                                "parentName": "sweden",
+                                "parentDir": "/home/tadams/Pictures/countries/europe/sweden",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/europe/sweden/malmo/malmo.jpg"
+                                ]
+                            },
+                            "name": "malmo",
+                            "children": []
+                        },
+                        {
+                            "id": "109",
+                            "parentId": "85",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Gothenburg",
+                                "parentName": "sweden",
+                                "parentDir": "/home/tadams/Pictures/countries/europe/sweden",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/europe/sweden/gothenburg/gothenburg.jpg"
+                                ]
+                            },
+                            "name": "gothenburg",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "86",
+                    "parentId": "5",
+                    "level": 2,
+                    "attributes": {
+                        "title": "Italy",
+                        "parentName": "europe",
+                        "parentDir": "/home/tadams/Pictures/countries/europe",
+                        "images": [
+                            "/home/tadams/Pictures/countries/europe/italy/italy.jpg",
+                            "/home/tadams/Pictures/countries/europe/italy/flag-italy.png"
+                        ]
+                    },
+                    "name": "italy",
+                    "children": [
+                        {
+                            "id": "110",
+                            "parentId": "86",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Milan",
+                                "parentName": "italy",
+                                "parentDir": "/home/tadams/Pictures/countries/europe/italy",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/europe/italy/milan/milan.jpg"
+                                ]
+                            },
+                            "name": "milan",
+                            "children": []
+                        },
+                        {
+                            "id": "111",
+                            "parentId": "86",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Rome",
+                                "parentName": "italy",
+                                "parentDir": "/home/tadams/Pictures/countries/europe/italy",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/europe/italy/rome/rome.jpg"
+                                ]
+                            },
+                            "name": "rome",
+                            "children": []
+                        },
+                        {
+                            "id": "112",
+                            "parentId": "86",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Naples",
+                                "parentName": "italy",
+                                "parentDir": "/home/tadams/Pictures/countries/europe/italy",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/europe/italy/naples/naples.jpg"
+                                ]
+                            },
+                            "name": "naples",
+                            "children": []
+                        },
+                        {
+                            "id": "113",
+                            "parentId": "86",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Turin",
+                                "parentName": "italy",
+                                "parentDir": "/home/tadams/Pictures/countries/europe/italy",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/europe/italy/turin/turin.jpg"
+                                ]
+                            },
+                            "name": "turin",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "parentId": "-1",
+            "level": 1,
+            "attributes": {
+                "title": "South america",
+                "parentName": "countries",
+                "parentDir": "/home/tadams/Pictures/countries",
+                "images": []
+            },
+            "name": "south-america",
+            "children": [
+                {
+                    "id": "114",
+                    "parentId": "6",
+                    "level": 2,
+                    "attributes": {
+                        "title": "Argentina",
+                        "parentName": "south-america",
+                        "parentDir": "/home/tadams/Pictures/countries/south-america",
+                        "images": [
+                            "/home/tadams/Pictures/countries/south-america/argentina/argentina.jpg",
+                            "/home/tadams/Pictures/countries/south-america/argentina/flag-argentina.png"
+                        ]
+                    },
+                    "name": "argentina",
+                    "children": [
+                        {
+                            "id": "118",
+                            "parentId": "114",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Buenos aires",
+                                "parentName": "argentina",
+                                "parentDir": "/home/tadams/Pictures/countries/south-america/argentina",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/south-america/argentina/buenos-aires/buenos-aires.jpg"
+                                ]
+                            },
+                            "name": "buenos-aires",
+                            "children": []
+                        },
+                        {
+                            "id": "119",
+                            "parentId": "114",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Rosario",
+                                "parentName": "argentina",
+                                "parentDir": "/home/tadams/Pictures/countries/south-america/argentina",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/south-america/argentina/rosario/rosario.jpg"
+                                ]
+                            },
+                            "name": "rosario",
+                            "children": []
+                        },
+                        {
+                            "id": "120",
+                            "parentId": "114",
+                            "level": 3,
+                            "attributes": {
+                                "title": "La plata",
+                                "parentName": "argentina",
+                                "parentDir": "/home/tadams/Pictures/countries/south-america/argentina",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/south-america/argentina/la-plata/la-plata.jpg"
+                                ]
+                            },
+                            "name": "la-plata",
+                            "children": []
+                        },
+                        {
+                            "id": "121",
+                            "parentId": "114",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Cordoba",
+                                "parentName": "argentina",
+                                "parentDir": "/home/tadams/Pictures/countries/south-america/argentina",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/south-america/argentina/cordoba/cordoba.jpg"
+                                ]
+                            },
+                            "name": "cordoba",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "115",
+                    "parentId": "6",
+                    "level": 2,
+                    "attributes": {
+                        "title": "Chile",
+                        "parentName": "south-america",
+                        "parentDir": "/home/tadams/Pictures/countries/south-america",
+                        "images": [
+                            "/home/tadams/Pictures/countries/south-america/chile/flag-chile.png",
+                            "/home/tadams/Pictures/countries/south-america/chile/chile.jpg"
+                        ]
+                    },
+                    "name": "chile",
+                    "children": [
+                        {
+                            "id": "122",
+                            "parentId": "115",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Santiago",
+                                "parentName": "chile",
+                                "parentDir": "/home/tadams/Pictures/countries/south-america/chile",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/south-america/chile/santiago/santiago.png"
+                                ]
+                            },
+                            "name": "santiago",
+                            "children": []
+                        },
+                        {
+                            "id": "123",
+                            "parentId": "115",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Coquimbo",
+                                "parentName": "chile",
+                                "parentDir": "/home/tadams/Pictures/countries/south-america/chile",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/south-america/chile/coquimbo/coquimbo.jpg"
+                                ]
+                            },
+                            "name": "coquimbo",
+                            "children": []
+                        },
+                        {
+                            "id": "124",
+                            "parentId": "115",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Valparaiso",
+                                "parentName": "chile",
+                                "parentDir": "/home/tadams/Pictures/countries/south-america/chile",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/south-america/chile/valparaiso/valparaiso.jpg"
+                                ]
+                            },
+                            "name": "valparaiso",
+                            "children": []
+                        },
+                        {
+                            "id": "125",
+                            "parentId": "115",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Concepcion",
+                                "parentName": "chile",
+                                "parentDir": "/home/tadams/Pictures/countries/south-america/chile",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/south-america/chile/concepcion/concepcion.jpg"
+                                ]
+                            },
+                            "name": "concepcion",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "116",
+                    "parentId": "6",
+                    "level": 2,
+                    "attributes": {
+                        "title": "Colombia",
+                        "parentName": "south-america",
+                        "parentDir": "/home/tadams/Pictures/countries/south-america",
+                        "images": [
+                            "/home/tadams/Pictures/countries/south-america/colombia/flag-colombia.png",
+                            "/home/tadams/Pictures/countries/south-america/colombia/colombia.jpg"
+                        ]
+                    },
+                    "name": "colombia",
+                    "children": [
+                        {
+                            "id": "126",
+                            "parentId": "116",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Cartagena",
+                                "parentName": "colombia",
+                                "parentDir": "/home/tadams/Pictures/countries/south-america/colombia",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/south-america/colombia/cartagena/cartagena.jpg"
+                                ]
+                            },
+                            "name": "cartagena",
+                            "children": []
+                        },
+                        {
+                            "id": "127",
+                            "parentId": "116",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Medellin",
+                                "parentName": "colombia",
+                                "parentDir": "/home/tadams/Pictures/countries/south-america/colombia",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/south-america/colombia/medellin/medellin.jpg"
+                                ]
+                            },
+                            "name": "medellin",
+                            "children": []
+                        },
+                        {
+                            "id": "128",
+                            "parentId": "116",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Cali",
+                                "parentName": "colombia",
+                                "parentDir": "/home/tadams/Pictures/countries/south-america/colombia",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/south-america/colombia/cali/cali.jpg"
+                                ]
+                            },
+                            "name": "cali",
+                            "children": []
+                        },
+                        {
+                            "id": "129",
+                            "parentId": "116",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Bogota",
+                                "parentName": "colombia",
+                                "parentDir": "/home/tadams/Pictures/countries/south-america/colombia",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/south-america/colombia/bogota/bogota.jpg"
+                                ]
+                            },
+                            "name": "bogota",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "id": "117",
+                    "parentId": "6",
+                    "level": 2,
+                    "attributes": {
+                        "title": "Brazil",
+                        "parentName": "south-america",
+                        "parentDir": "/home/tadams/Pictures/countries/south-america",
+                        "images": [
+                            "/home/tadams/Pictures/countries/south-america/brazil/brazil.jpg",
+                            "/home/tadams/Pictures/countries/south-america/brazil/flag-brazil.png"
+                        ]
+                    },
+                    "name": "brazil",
+                    "children": [
+                        {
+                            "id": "130",
+                            "parentId": "117",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Belo horizonte",
+                                "parentName": "brazil",
+                                "parentDir": "/home/tadams/Pictures/countries/south-america/brazil",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/south-america/brazil/belo-horizonte/belo-horizonte.png"
+                                ]
+                            },
+                            "name": "belo-horizonte",
+                            "children": []
+                        },
+                        {
+                            "id": "131",
+                            "parentId": "117",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Rio de janeiro",
+                                "parentName": "brazil",
+                                "parentDir": "/home/tadams/Pictures/countries/south-america/brazil",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/south-america/brazil/rio-de-janeiro/rio-de-janeiro.png"
+                                ]
+                            },
+                            "name": "rio-de-janeiro",
+                            "children": []
+                        },
+                        {
+                            "id": "132",
+                            "parentId": "117",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Brasilia",
+                                "parentName": "brazil",
+                                "parentDir": "/home/tadams/Pictures/countries/south-america/brazil",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/south-america/brazil/brasilia/brasilia.png"
+                                ]
+                            },
+                            "name": "brasilia",
+                            "children": []
+                        },
+                        {
+                            "id": "133",
+                            "parentId": "117",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Sao paulo",
+                                "parentName": "brazil",
+                                "parentDir": "/home/tadams/Pictures/countries/south-america/brazil",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/south-america/brazil/sao-paulo/sao-paulo.png"
+                                ]
+                            },
+                            "name": "sao-paulo",
+                            "children": []
+                        },
+                        {
+                            "id": "134",
+                            "parentId": "117",
+                            "level": 3,
+                            "attributes": {
+                                "title": "Recife",
+                                "parentName": "brazil",
+                                "parentDir": "/home/tadams/Pictures/countries/south-america/brazil",
+                                "images": [
+                                    "/home/tadams/Pictures/countries/south-america/brazil/recife/recife.jpg"
+                                ]
+                            },
+                            "name": "recife",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
