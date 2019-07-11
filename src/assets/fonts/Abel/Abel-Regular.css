@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "Abel-Regular";
+    src: url('$path/Abel-Regular.woff2') format('woff2'),
+         url('$path/Abel-Regular.woff') format('woff'),
+         url('$path/Abel-Regular.svg#Abel-Regular') format('svg'),
+         url('$path/Abel-Regular.ttf') format('ttf');   
+}
+            
+
+            

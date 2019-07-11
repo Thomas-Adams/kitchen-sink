@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "Cabin-Italic";
+    src: url('$path/Cabin-Italic.woff2') format('woff2'),
+         url('$path/Cabin-Italic.woff') format('woff'),
+         url('$path/Cabin-Italic.svg#Cabin-Italic') format('svg'),
+         url('$path/Cabin-Italic.ttf') format('ttf');   
+}
+            
+
+            

@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "Dosis-SemiBold";
+    src: url('$path/Dosis-SemiBold.woff2') format('woff2'),
+         url('$path/Dosis-SemiBold.woff') format('woff'),
+         url('$path/Dosis-SemiBold.svg#Dosis-SemiBold') format('svg'),
+         url('$path/Dosis-SemiBold.ttf') format('ttf');   
+}
+            
+
+            

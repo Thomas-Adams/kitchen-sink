@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "Bitter-Regular";
+    src: url('$path/Bitter-Regular.woff2') format('woff2'),
+         url('$path/Bitter-Regular.woff') format('woff'),
+         url('$path/Bitter-Regular.svg#Bitter-Regular') format('svg'),
+         url('$path/Bitter-Regular.ttf') format('ttf');   
+}
+            
+
+            

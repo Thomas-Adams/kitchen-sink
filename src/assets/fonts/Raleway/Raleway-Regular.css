@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "Raleway-Regular";
+    src: url('$path/Raleway-Regular.woff2') format('woff2'),
+         url('$path/Raleway-Regular.woff') format('woff'),
+         url('$path/Raleway-Regular.svg#Raleway-Regular') format('svg'),
+         url('$path/Raleway-Regular.ttf') format('ttf');   
+}
+            
+
+            

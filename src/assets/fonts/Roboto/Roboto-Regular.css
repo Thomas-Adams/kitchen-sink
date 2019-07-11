@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "Roboto-Regular";
+    src: url('$path/Roboto-Regular.woff2') format('woff2'),
+         url('$path/Roboto-Regular.woff') format('woff'),
+         url('$path/Roboto-Regular.svg#Roboto-Regular') format('svg'),
+         url('$path/Roboto-Regular.ttf') format('ttf');   
+}
+            
+
+            

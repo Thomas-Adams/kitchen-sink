@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "Roboto-BoldItalic";
+    src: url('$path/Roboto-BoldItalic.woff2') format('woff2'),
+         url('$path/Roboto-BoldItalic.woff') format('woff'),
+         url('$path/Roboto-BoldItalic.svg#Roboto-BoldItalic') format('svg'),
+         url('$path/Roboto-BoldItalic.ttf') format('ttf');   
+}
+            
+
+            

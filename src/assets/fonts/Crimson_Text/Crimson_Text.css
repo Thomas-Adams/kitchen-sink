@@ -1,0 +1,67 @@
+
+
+@font-face {
+    font-family: "CrimsonText-Regular";
+    src: url('$path/CrimsonText-Regular.woff2') format('woff2'),
+         url('$path/CrimsonText-Regular.woff') format('woff'),
+         url('$path/CrimsonText-Regular.svg#CrimsonText-Regular') format('svg'),
+         url('$path/CrimsonText-Regular.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "CrimsonText-Italic";
+    src: url('$path/CrimsonText-Italic.woff2') format('woff2'),
+         url('$path/CrimsonText-Italic.woff') format('woff'),
+         url('$path/CrimsonText-Italic.svg#CrimsonText-Italic') format('svg'),
+         url('$path/CrimsonText-Italic.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "CrimsonText-BoldItalic";
+    src: url('$path/CrimsonText-BoldItalic.woff2') format('woff2'),
+         url('$path/CrimsonText-BoldItalic.woff') format('woff'),
+         url('$path/CrimsonText-BoldItalic.svg#CrimsonText-BoldItalic') format('svg'),
+         url('$path/CrimsonText-BoldItalic.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "CrimsonText-Bold";
+    src: url('$path/CrimsonText-Bold.woff2') format('woff2'),
+         url('$path/CrimsonText-Bold.woff') format('woff'),
+         url('$path/CrimsonText-Bold.svg#CrimsonText-Bold') format('svg'),
+         url('$path/CrimsonText-Bold.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "CrimsonText-SemiBold";
+    src: url('$path/CrimsonText-SemiBold.woff2') format('woff2'),
+         url('$path/CrimsonText-SemiBold.woff') format('woff'),
+         url('$path/CrimsonText-SemiBold.svg#CrimsonText-SemiBold') format('svg'),
+         url('$path/CrimsonText-SemiBold.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "CrimsonText-SemiBoldItalic";
+    src: url('$path/CrimsonText-SemiBoldItalic.woff2') format('woff2'),
+         url('$path/CrimsonText-SemiBoldItalic.woff') format('woff'),
+         url('$path/CrimsonText-SemiBoldItalic.svg#CrimsonText-SemiBoldItalic') format('svg'),
+         url('$path/CrimsonText-SemiBoldItalic.ttf') format('ttf');   
+}
+            
+
+            

@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "Poppins-LightItalic";
+    src: url('$path/Poppins-LightItalic.woff2') format('woff2'),
+         url('$path/Poppins-LightItalic.woff') format('woff'),
+         url('$path/Poppins-LightItalic.svg#Poppins-LightItalic') format('svg'),
+         url('$path/Poppins-LightItalic.ttf') format('ttf');   
+}
+            
+
+            

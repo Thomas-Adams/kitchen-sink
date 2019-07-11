@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "Dosis-Medium";
+    src: url('$path/Dosis-Medium.woff2') format('woff2'),
+         url('$path/Dosis-Medium.woff') format('woff'),
+         url('$path/Dosis-Medium.svg#Dosis-Medium') format('svg'),
+         url('$path/Dosis-Medium.ttf') format('ttf');   
+}
+            
+
+            

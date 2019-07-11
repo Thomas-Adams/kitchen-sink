@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "Muli-ExtraLight";
+    src: url('$path/Muli-ExtraLight.woff2') format('woff2'),
+         url('$path/Muli-ExtraLight.woff') format('woff'),
+         url('$path/Muli-ExtraLight.svg#Muli-ExtraLight') format('svg'),
+         url('$path/Muli-ExtraLight.ttf') format('ttf');   
+}
+            
+
+            

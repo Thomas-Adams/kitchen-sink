@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "Muli-LightItalic";
+    src: url('$path/Muli-LightItalic.woff2') format('woff2'),
+         url('$path/Muli-LightItalic.woff') format('woff'),
+         url('$path/Muli-LightItalic.svg#Muli-LightItalic') format('svg'),
+         url('$path/Muli-LightItalic.ttf') format('ttf');   
+}
+            
+
+            

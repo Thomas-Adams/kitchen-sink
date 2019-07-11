@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "Montserrat-Thin";
+    src: url('$path/Montserrat-Thin.woff2') format('woff2'),
+         url('$path/Montserrat-Thin.woff') format('woff'),
+         url('$path/Montserrat-Thin.svg#Montserrat-Thin') format('svg'),
+         url('$path/Montserrat-Thin.ttf') format('ttf');   
+}
+            
+
+            

@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "CutiveMono-Regular";
+    src: url('$path/CutiveMono-Regular.woff2') format('woff2'),
+         url('$path/CutiveMono-Regular.woff') format('woff'),
+         url('$path/CutiveMono-Regular.svg#CutiveMono-Regular') format('svg'),
+         url('$path/CutiveMono-Regular.ttf') format('ttf');   
+}
+            
+
+            

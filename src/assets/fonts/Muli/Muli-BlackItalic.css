@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "Muli-BlackItalic";
+    src: url('$path/Muli-BlackItalic.woff2') format('woff2'),
+         url('$path/Muli-BlackItalic.woff') format('woff'),
+         url('$path/Muli-BlackItalic.svg#Muli-BlackItalic') format('svg'),
+         url('$path/Muli-BlackItalic.ttf') format('ttf');   
+}
+            
+
+            

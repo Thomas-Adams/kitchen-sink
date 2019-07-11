@@ -1,0 +1,78 @@
+
+
+@font-face {
+    font-family: "Dosis-ExtraLight";
+    src: url('$path/Dosis-ExtraLight.woff2') format('woff2'),
+         url('$path/Dosis-ExtraLight.woff') format('woff'),
+         url('$path/Dosis-ExtraLight.svg#Dosis-ExtraLight') format('svg'),
+         url('$path/Dosis-ExtraLight.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Dosis-Regular";
+    src: url('$path/Dosis-Regular.woff2') format('woff2'),
+         url('$path/Dosis-Regular.woff') format('woff'),
+         url('$path/Dosis-Regular.svg#Dosis-Regular') format('svg'),
+         url('$path/Dosis-Regular.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Dosis-Light";
+    src: url('$path/Dosis-Light.woff2') format('woff2'),
+         url('$path/Dosis-Light.woff') format('woff'),
+         url('$path/Dosis-Light.svg#Dosis-Light') format('svg'),
+         url('$path/Dosis-Light.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Dosis-Medium";
+    src: url('$path/Dosis-Medium.woff2') format('woff2'),
+         url('$path/Dosis-Medium.woff') format('woff'),
+         url('$path/Dosis-Medium.svg#Dosis-Medium') format('svg'),
+         url('$path/Dosis-Medium.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Dosis-Bold";
+    src: url('$path/Dosis-Bold.woff2') format('woff2'),
+         url('$path/Dosis-Bold.woff') format('woff'),
+         url('$path/Dosis-Bold.svg#Dosis-Bold') format('svg'),
+         url('$path/Dosis-Bold.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Dosis-ExtraBold";
+    src: url('$path/Dosis-ExtraBold.woff2') format('woff2'),
+         url('$path/Dosis-ExtraBold.woff') format('woff'),
+         url('$path/Dosis-ExtraBold.svg#Dosis-ExtraBold') format('svg'),
+         url('$path/Dosis-ExtraBold.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Dosis-SemiBold";
+    src: url('$path/Dosis-SemiBold.woff2') format('woff2'),
+         url('$path/Dosis-SemiBold.woff') format('woff'),
+         url('$path/Dosis-SemiBold.svg#Dosis-SemiBold') format('svg'),
+         url('$path/Dosis-SemiBold.ttf') format('ttf');   
+}
+            
+
+            

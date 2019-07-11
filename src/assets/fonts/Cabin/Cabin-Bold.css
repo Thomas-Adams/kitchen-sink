@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "Cabin-Bold";
+    src: url('$path/Cabin-Bold.woff2') format('woff2'),
+         url('$path/Cabin-Bold.woff') format('woff'),
+         url('$path/Cabin-Bold.svg#Cabin-Bold') format('svg'),
+         url('$path/Cabin-Bold.ttf') format('ttf');   
+}
+            
+
+            

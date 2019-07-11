@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "Montserrat-ExtraLight";
+    src: url('$path/Montserrat-ExtraLight.woff2') format('woff2'),
+         url('$path/Montserrat-ExtraLight.woff') format('woff'),
+         url('$path/Montserrat-ExtraLight.svg#Montserrat-ExtraLight') format('svg'),
+         url('$path/Montserrat-ExtraLight.ttf') format('ttf');   
+}
+            
+
+            

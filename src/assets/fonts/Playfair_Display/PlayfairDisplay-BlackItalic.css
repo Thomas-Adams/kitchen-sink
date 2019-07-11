@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "PlayfairDisplay-BlackItalic";
+    src: url('$path/PlayfairDisplay-BlackItalic.woff2') format('woff2'),
+         url('$path/PlayfairDisplay-BlackItalic.woff') format('woff'),
+         url('$path/PlayfairDisplay-BlackItalic.svg#PlayfairDisplay-BlackItalic') format('svg'),
+         url('$path/PlayfairDisplay-BlackItalic.ttf') format('ttf');   
+}
+            
+
+            

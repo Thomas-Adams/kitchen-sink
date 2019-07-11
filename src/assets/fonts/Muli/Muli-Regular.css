@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "Muli-Regular";
+    src: url('$path/Muli-Regular.woff2') format('woff2'),
+         url('$path/Muli-Regular.woff') format('woff'),
+         url('$path/Muli-Regular.svg#Muli-Regular') format('svg'),
+         url('$path/Muli-Regular.ttf') format('ttf');   
+}
+            
+
+            

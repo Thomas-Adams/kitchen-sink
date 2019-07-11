@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "Muli-Bold";
+    src: url('$path/Muli-Bold.woff2') format('woff2'),
+         url('$path/Muli-Bold.woff') format('woff'),
+         url('$path/Muli-Bold.svg#Muli-Bold') format('svg'),
+         url('$path/Muli-Bold.ttf') format('ttf');   
+}
+            
+
+            

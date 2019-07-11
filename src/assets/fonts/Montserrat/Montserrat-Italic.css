@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "Montserrat-Italic";
+    src: url('$path/Montserrat-Italic.woff2') format('woff2'),
+         url('$path/Montserrat-Italic.woff') format('woff'),
+         url('$path/Montserrat-Italic.svg#Montserrat-Italic') format('svg'),
+         url('$path/Montserrat-Italic.ttf') format('ttf');   
+}
+            
+
+            

@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "Raleway-SemiBold";
+    src: url('$path/Raleway-SemiBold.woff2') format('woff2'),
+         url('$path/Raleway-SemiBold.woff') format('woff'),
+         url('$path/Raleway-SemiBold.svg#Raleway-SemiBold') format('svg'),
+         url('$path/Raleway-SemiBold.ttf') format('ttf');   
+}
+            
+
+            

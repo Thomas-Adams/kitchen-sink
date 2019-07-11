@@ -1,0 +1,36 @@
+<nav id="ml-menu" class="menu">
+    <nav id="breadcrumbs">
+        <a *ngFor="let breadcrumb of breadcrumbs;let i = index" [attr.href]="(i + 1) === breadcrumbs.length?null:'#'" (click)="onClickBreadCrumb($event, breadcrumb)">
+            <i *ngIf="i>0" class="lni lni-angle-double-right"></i> {{breadcrumb?.title}}</a>
+    </nav>
+    <div class="menu__wrap">
+        <ul id="root-main" data-menu="main" class="menu__level active" tabindex="-1" role="menu" aria-label="All">
+            <li class="menu__item" role="menuitem" *ngFor="let m of menu.children">
+                <a (click)="onMenuItemClick($event, m)" class="menu__link" href="#">
+                    {{m.title}}
+                </a>
+            </li>
+        </ul>
+
+        <ng-container *ngFor="let m of menu.children">
+            <ul [id]="m.name" class="menu__level right" [attr.data-submenu]="getDataSubMenu(m)" tabindex="-1" role="menu" [attr.aria-label]="m.title">
+                <li class="menu__item" role="menuitem" *ngFor="let m1 of m.children">
+                    <a (click)="onMenuItemClick($event, m1)" href="#" class="menu__link">
+                        {{m1.title}}
+                    </a>
+                </li>
+            </ul>
+        </ng-container>
+        <ng-container *ngFor="let m of menu.children">
+            <ng-container *ngFor="let m1 of m.children">
+                <ul [id]="m1.name" class="menu__level right" [attr.data-submenu]="getDataSubMenu(m1)" tabindex="-1" role="menu" [attr.aria-label]="m1.title">
+                    <li class="menu__item" role="menuitem" *ngFor="let m2 of m1.children">
+                        <a href="#" class="menu__link">
+                            {{m2.title}}
+                        </a>
+                    </li>
+                </ul>
+            </ng-container>
+        </ng-container>
+    </div>
+</nav>

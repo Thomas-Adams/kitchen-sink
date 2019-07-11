@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "Poppins-ExtraBoldItalic";
+    src: url('$path/Poppins-ExtraBoldItalic.woff2') format('woff2'),
+         url('$path/Poppins-ExtraBoldItalic.woff') format('woff'),
+         url('$path/Poppins-ExtraBoldItalic.svg#Poppins-ExtraBoldItalic') format('svg'),
+         url('$path/Poppins-ExtraBoldItalic.ttf') format('ttf');   
+}
+            
+
+            

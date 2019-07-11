@@ -1,0 +1,199 @@
+
+
+@font-face {
+    font-family: "Raleway-ThinItalic";
+    src: url('$path/Raleway-ThinItalic.woff2') format('woff2'),
+         url('$path/Raleway-ThinItalic.woff') format('woff'),
+         url('$path/Raleway-ThinItalic.svg#Raleway-ThinItalic') format('svg'),
+         url('$path/Raleway-ThinItalic.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Raleway-ExtraBold";
+    src: url('$path/Raleway-ExtraBold.woff2') format('woff2'),
+         url('$path/Raleway-ExtraBold.woff') format('woff'),
+         url('$path/Raleway-ExtraBold.svg#Raleway-ExtraBold') format('svg'),
+         url('$path/Raleway-ExtraBold.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Raleway-BlackItalic";
+    src: url('$path/Raleway-BlackItalic.woff2') format('woff2'),
+         url('$path/Raleway-BlackItalic.woff') format('woff'),
+         url('$path/Raleway-BlackItalic.svg#Raleway-BlackItalic') format('svg'),
+         url('$path/Raleway-BlackItalic.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Raleway-MediumItalic";
+    src: url('$path/Raleway-MediumItalic.woff2') format('woff2'),
+         url('$path/Raleway-MediumItalic.woff') format('woff'),
+         url('$path/Raleway-MediumItalic.svg#Raleway-MediumItalic') format('svg'),
+         url('$path/Raleway-MediumItalic.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Raleway-ExtraLight";
+    src: url('$path/Raleway-ExtraLight.woff2') format('woff2'),
+         url('$path/Raleway-ExtraLight.woff') format('woff'),
+         url('$path/Raleway-ExtraLight.svg#Raleway-ExtraLight') format('svg'),
+         url('$path/Raleway-ExtraLight.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Raleway-SemiBoldItalic";
+    src: url('$path/Raleway-SemiBoldItalic.woff2') format('woff2'),
+         url('$path/Raleway-SemiBoldItalic.woff') format('woff'),
+         url('$path/Raleway-SemiBoldItalic.svg#Raleway-SemiBoldItalic') format('svg'),
+         url('$path/Raleway-SemiBoldItalic.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Raleway-Bold";
+    src: url('$path/Raleway-Bold.woff2') format('woff2'),
+         url('$path/Raleway-Bold.woff') format('woff'),
+         url('$path/Raleway-Bold.svg#Raleway-Bold') format('svg'),
+         url('$path/Raleway-Bold.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Raleway-ExtraBoldItalic";
+    src: url('$path/Raleway-ExtraBoldItalic.woff2') format('woff2'),
+         url('$path/Raleway-ExtraBoldItalic.woff') format('woff'),
+         url('$path/Raleway-ExtraBoldItalic.svg#Raleway-ExtraBoldItalic') format('svg'),
+         url('$path/Raleway-ExtraBoldItalic.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Raleway-BoldItalic";
+    src: url('$path/Raleway-BoldItalic.woff2') format('woff2'),
+         url('$path/Raleway-BoldItalic.woff') format('woff'),
+         url('$path/Raleway-BoldItalic.svg#Raleway-BoldItalic') format('svg'),
+         url('$path/Raleway-BoldItalic.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Raleway-Black";
+    src: url('$path/Raleway-Black.woff2') format('woff2'),
+         url('$path/Raleway-Black.woff') format('woff'),
+         url('$path/Raleway-Black.svg#Raleway-Black') format('svg'),
+         url('$path/Raleway-Black.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Raleway-Regular";
+    src: url('$path/Raleway-Regular.woff2') format('woff2'),
+         url('$path/Raleway-Regular.woff') format('woff'),
+         url('$path/Raleway-Regular.svg#Raleway-Regular') format('svg'),
+         url('$path/Raleway-Regular.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Raleway-SemiBold";
+    src: url('$path/Raleway-SemiBold.woff2') format('woff2'),
+         url('$path/Raleway-SemiBold.woff') format('woff'),
+         url('$path/Raleway-SemiBold.svg#Raleway-SemiBold') format('svg'),
+         url('$path/Raleway-SemiBold.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Raleway-ExtraLightItalic";
+    src: url('$path/Raleway-ExtraLightItalic.woff2') format('woff2'),
+         url('$path/Raleway-ExtraLightItalic.woff') format('woff'),
+         url('$path/Raleway-ExtraLightItalic.svg#Raleway-ExtraLightItalic') format('svg'),
+         url('$path/Raleway-ExtraLightItalic.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Raleway-Light";
+    src: url('$path/Raleway-Light.woff2') format('woff2'),
+         url('$path/Raleway-Light.woff') format('woff'),
+         url('$path/Raleway-Light.svg#Raleway-Light') format('svg'),
+         url('$path/Raleway-Light.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Raleway-Thin";
+    src: url('$path/Raleway-Thin.woff2') format('woff2'),
+         url('$path/Raleway-Thin.woff') format('woff'),
+         url('$path/Raleway-Thin.svg#Raleway-Thin') format('svg'),
+         url('$path/Raleway-Thin.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Raleway-Medium";
+    src: url('$path/Raleway-Medium.woff2') format('woff2'),
+         url('$path/Raleway-Medium.woff') format('woff'),
+         url('$path/Raleway-Medium.svg#Raleway-Medium') format('svg'),
+         url('$path/Raleway-Medium.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Raleway-Italic";
+    src: url('$path/Raleway-Italic.woff2') format('woff2'),
+         url('$path/Raleway-Italic.woff') format('woff'),
+         url('$path/Raleway-Italic.svg#Raleway-Italic') format('svg'),
+         url('$path/Raleway-Italic.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Raleway-LightItalic";
+    src: url('$path/Raleway-LightItalic.woff2') format('woff2'),
+         url('$path/Raleway-LightItalic.woff') format('woff'),
+         url('$path/Raleway-LightItalic.svg#Raleway-LightItalic') format('svg'),
+         url('$path/Raleway-LightItalic.ttf') format('ttf');   
+}
+            
+
+            

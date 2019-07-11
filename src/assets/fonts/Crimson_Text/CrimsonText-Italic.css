@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "CrimsonText-Italic";
+    src: url('$path/CrimsonText-Italic.woff2') format('woff2'),
+         url('$path/CrimsonText-Italic.woff') format('woff'),
+         url('$path/CrimsonText-Italic.svg#CrimsonText-Italic') format('svg'),
+         url('$path/CrimsonText-Italic.ttf') format('ttf');   
+}
+            
+
+            

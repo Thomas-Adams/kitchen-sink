@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "Lato-BlackItalic";
+    src: url('$path/Lato-BlackItalic.woff2') format('woff2'),
+         url('$path/Lato-BlackItalic.woff') format('woff'),
+         url('$path/Lato-BlackItalic.svg#Lato-BlackItalic') format('svg'),
+         url('$path/Lato-BlackItalic.ttf') format('ttf');   
+}
+            
+
+            

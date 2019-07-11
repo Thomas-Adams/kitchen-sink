@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "CrimsonText-SemiBoldItalic";
+    src: url('$path/CrimsonText-SemiBoldItalic.woff2') format('woff2'),
+         url('$path/CrimsonText-SemiBoldItalic.woff') format('woff'),
+         url('$path/CrimsonText-SemiBoldItalic.svg#CrimsonText-SemiBoldItalic') format('svg'),
+         url('$path/CrimsonText-SemiBoldItalic.ttf') format('ttf');   
+}
+            
+
+            

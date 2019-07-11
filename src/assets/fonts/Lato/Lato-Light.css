@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "Lato-Light";
+    src: url('$path/Lato-Light.woff2') format('woff2'),
+         url('$path/Lato-Light.woff') format('woff'),
+         url('$path/Lato-Light.svg#Lato-Light') format('svg'),
+         url('$path/Lato-Light.ttf') format('ttf');   
+}
+            
+
+            

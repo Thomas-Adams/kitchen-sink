@@ -1,0 +1,199 @@
+
+
+@font-face {
+    font-family: "Poppins-Thin";
+    src: url('$path/Poppins-Thin.woff2') format('woff2'),
+         url('$path/Poppins-Thin.woff') format('woff'),
+         url('$path/Poppins-Thin.svg#Poppins-Thin') format('svg'),
+         url('$path/Poppins-Thin.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Poppins-Italic";
+    src: url('$path/Poppins-Italic.woff2') format('woff2'),
+         url('$path/Poppins-Italic.woff') format('woff'),
+         url('$path/Poppins-Italic.svg#Poppins-Italic') format('svg'),
+         url('$path/Poppins-Italic.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Poppins-SemiBoldItalic";
+    src: url('$path/Poppins-SemiBoldItalic.woff2') format('woff2'),
+         url('$path/Poppins-SemiBoldItalic.woff') format('woff'),
+         url('$path/Poppins-SemiBoldItalic.svg#Poppins-SemiBoldItalic') format('svg'),
+         url('$path/Poppins-SemiBoldItalic.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Poppins-BoldItalic";
+    src: url('$path/Poppins-BoldItalic.woff2') format('woff2'),
+         url('$path/Poppins-BoldItalic.woff') format('woff'),
+         url('$path/Poppins-BoldItalic.svg#Poppins-BoldItalic') format('svg'),
+         url('$path/Poppins-BoldItalic.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Poppins-ThinItalic";
+    src: url('$path/Poppins-ThinItalic.woff2') format('woff2'),
+         url('$path/Poppins-ThinItalic.woff') format('woff'),
+         url('$path/Poppins-ThinItalic.svg#Poppins-ThinItalic') format('svg'),
+         url('$path/Poppins-ThinItalic.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Poppins-Regular";
+    src: url('$path/Poppins-Regular.woff2') format('woff2'),
+         url('$path/Poppins-Regular.woff') format('woff'),
+         url('$path/Poppins-Regular.svg#Poppins-Regular') format('svg'),
+         url('$path/Poppins-Regular.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Poppins-ExtraBold";
+    src: url('$path/Poppins-ExtraBold.woff2') format('woff2'),
+         url('$path/Poppins-ExtraBold.woff') format('woff'),
+         url('$path/Poppins-ExtraBold.svg#Poppins-ExtraBold') format('svg'),
+         url('$path/Poppins-ExtraBold.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Poppins-ExtraBoldItalic";
+    src: url('$path/Poppins-ExtraBoldItalic.woff2') format('woff2'),
+         url('$path/Poppins-ExtraBoldItalic.woff') format('woff'),
+         url('$path/Poppins-ExtraBoldItalic.svg#Poppins-ExtraBoldItalic') format('svg'),
+         url('$path/Poppins-ExtraBoldItalic.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Poppins-BlackItalic";
+    src: url('$path/Poppins-BlackItalic.woff2') format('woff2'),
+         url('$path/Poppins-BlackItalic.woff') format('woff'),
+         url('$path/Poppins-BlackItalic.svg#Poppins-BlackItalic') format('svg'),
+         url('$path/Poppins-BlackItalic.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Poppins-Black";
+    src: url('$path/Poppins-Black.woff2') format('woff2'),
+         url('$path/Poppins-Black.woff') format('woff'),
+         url('$path/Poppins-Black.svg#Poppins-Black') format('svg'),
+         url('$path/Poppins-Black.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Poppins-MediumItalic";
+    src: url('$path/Poppins-MediumItalic.woff2') format('woff2'),
+         url('$path/Poppins-MediumItalic.woff') format('woff'),
+         url('$path/Poppins-MediumItalic.svg#Poppins-MediumItalic') format('svg'),
+         url('$path/Poppins-MediumItalic.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Poppins-LightItalic";
+    src: url('$path/Poppins-LightItalic.woff2') format('woff2'),
+         url('$path/Poppins-LightItalic.woff') format('woff'),
+         url('$path/Poppins-LightItalic.svg#Poppins-LightItalic') format('svg'),
+         url('$path/Poppins-LightItalic.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Poppins-Medium";
+    src: url('$path/Poppins-Medium.woff2') format('woff2'),
+         url('$path/Poppins-Medium.woff') format('woff'),
+         url('$path/Poppins-Medium.svg#Poppins-Medium') format('svg'),
+         url('$path/Poppins-Medium.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Poppins-Bold";
+    src: url('$path/Poppins-Bold.woff2') format('woff2'),
+         url('$path/Poppins-Bold.woff') format('woff'),
+         url('$path/Poppins-Bold.svg#Poppins-Bold') format('svg'),
+         url('$path/Poppins-Bold.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Poppins-ExtraLightItalic";
+    src: url('$path/Poppins-ExtraLightItalic.woff2') format('woff2'),
+         url('$path/Poppins-ExtraLightItalic.woff') format('woff'),
+         url('$path/Poppins-ExtraLightItalic.svg#Poppins-ExtraLightItalic') format('svg'),
+         url('$path/Poppins-ExtraLightItalic.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Poppins-ExtraLight";
+    src: url('$path/Poppins-ExtraLight.woff2') format('woff2'),
+         url('$path/Poppins-ExtraLight.woff') format('woff'),
+         url('$path/Poppins-ExtraLight.svg#Poppins-ExtraLight') format('svg'),
+         url('$path/Poppins-ExtraLight.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Poppins-SemiBold";
+    src: url('$path/Poppins-SemiBold.woff2') format('woff2'),
+         url('$path/Poppins-SemiBold.woff') format('woff'),
+         url('$path/Poppins-SemiBold.svg#Poppins-SemiBold') format('svg'),
+         url('$path/Poppins-SemiBold.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Poppins-Light";
+    src: url('$path/Poppins-Light.woff2') format('woff2'),
+         url('$path/Poppins-Light.woff') format('woff'),
+         url('$path/Poppins-Light.svg#Poppins-Light') format('svg'),
+         url('$path/Poppins-Light.ttf') format('ttf');   
+}
+            
+
+            

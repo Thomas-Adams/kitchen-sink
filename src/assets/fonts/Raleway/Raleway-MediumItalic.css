@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "Raleway-MediumItalic";
+    src: url('$path/Raleway-MediumItalic.woff2') format('woff2'),
+         url('$path/Raleway-MediumItalic.woff') format('woff'),
+         url('$path/Raleway-MediumItalic.svg#Raleway-MediumItalic') format('svg'),
+         url('$path/Raleway-MediumItalic.ttf') format('ttf');   
+}
+            
+
+            

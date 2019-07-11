@@ -1,0 +1,67 @@
+
+
+@font-face {
+    font-family: "PlayfairDisplay-BlackItalic";
+    src: url('$path/PlayfairDisplay-BlackItalic.woff2') format('woff2'),
+         url('$path/PlayfairDisplay-BlackItalic.woff') format('woff'),
+         url('$path/PlayfairDisplay-BlackItalic.svg#PlayfairDisplay-BlackItalic') format('svg'),
+         url('$path/PlayfairDisplay-BlackItalic.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "PlayfairDisplay-Italic";
+    src: url('$path/PlayfairDisplay-Italic.woff2') format('woff2'),
+         url('$path/PlayfairDisplay-Italic.woff') format('woff'),
+         url('$path/PlayfairDisplay-Italic.svg#PlayfairDisplay-Italic') format('svg'),
+         url('$path/PlayfairDisplay-Italic.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "PlayfairDisplay-Bold";
+    src: url('$path/PlayfairDisplay-Bold.woff2') format('woff2'),
+         url('$path/PlayfairDisplay-Bold.woff') format('woff'),
+         url('$path/PlayfairDisplay-Bold.svg#PlayfairDisplay-Bold') format('svg'),
+         url('$path/PlayfairDisplay-Bold.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "PlayfairDisplay-BoldItalic";
+    src: url('$path/PlayfairDisplay-BoldItalic.woff2') format('woff2'),
+         url('$path/PlayfairDisplay-BoldItalic.woff') format('woff'),
+         url('$path/PlayfairDisplay-BoldItalic.svg#PlayfairDisplay-BoldItalic') format('svg'),
+         url('$path/PlayfairDisplay-BoldItalic.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "PlayfairDisplay-Regular";
+    src: url('$path/PlayfairDisplay-Regular.woff2') format('woff2'),
+         url('$path/PlayfairDisplay-Regular.woff') format('woff'),
+         url('$path/PlayfairDisplay-Regular.svg#PlayfairDisplay-Regular') format('svg'),
+         url('$path/PlayfairDisplay-Regular.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "PlayfairDisplay-Black";
+    src: url('$path/PlayfairDisplay-Black.woff2') format('woff2'),
+         url('$path/PlayfairDisplay-Black.woff') format('woff'),
+         url('$path/PlayfairDisplay-Black.svg#PlayfairDisplay-Black') format('svg'),
+         url('$path/PlayfairDisplay-Black.ttf') format('ttf');   
+}
+            
+
+            

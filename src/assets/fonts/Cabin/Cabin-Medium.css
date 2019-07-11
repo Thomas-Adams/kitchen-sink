@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "Cabin-Medium";
+    src: url('$path/Cabin-Medium.woff2') format('woff2'),
+         url('$path/Cabin-Medium.woff') format('woff'),
+         url('$path/Cabin-Medium.svg#Cabin-Medium') format('svg'),
+         url('$path/Cabin-Medium.ttf') format('ttf');   
+}
+            
+
+            

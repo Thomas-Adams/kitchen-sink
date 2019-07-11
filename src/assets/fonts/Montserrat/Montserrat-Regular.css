@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "Montserrat-Regular";
+    src: url('$path/Montserrat-Regular.woff2') format('woff2'),
+         url('$path/Montserrat-Regular.woff') format('woff'),
+         url('$path/Montserrat-Regular.svg#Montserrat-Regular') format('svg'),
+         url('$path/Montserrat-Regular.ttf') format('ttf');   
+}
+            
+
+            

@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "Dosis-Regular";
+    src: url('$path/Dosis-Regular.woff2') format('woff2'),
+         url('$path/Dosis-Regular.woff') format('woff'),
+         url('$path/Dosis-Regular.svg#Dosis-Regular') format('svg'),
+         url('$path/Dosis-Regular.ttf') format('ttf');   
+}
+            
+
+            

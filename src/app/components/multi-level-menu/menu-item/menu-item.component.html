@@ -1,0 +1,9 @@
+
+    <li class="menu__item" role="menuitem">
+        <a class="menu__link" [attr.data-submenu]="getDataSubMenu()" aria-owns="submenu-1" href="#">{{data.title}}</a>
+        <ul *ngIf="data.children" [id]="getUlId()" [attr.data-submenu]="getUlId()">
+            <ng-container *ngFor="let menuItem of data.children">
+                <app-menu-item [data]="menuItem"></app-menu-item>
+            </ng-container>
+        </ul>
+    </li>

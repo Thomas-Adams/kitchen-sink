@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "Lato-BoldItalic";
+    src: url('$path/Lato-BoldItalic.woff2') format('woff2'),
+         url('$path/Lato-BoldItalic.woff') format('woff'),
+         url('$path/Lato-BoldItalic.svg#Lato-BoldItalic') format('svg'),
+         url('$path/Lato-BoldItalic.ttf') format('ttf');   
+}
+            
+
+            

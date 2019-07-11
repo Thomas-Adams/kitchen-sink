@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "Lato-HairlineItalic";
+    src: url('$path/Lato-HairlineItalic.woff2') format('woff2'),
+         url('$path/Lato-HairlineItalic.woff') format('woff'),
+         url('$path/Lato-HairlineItalic.svg#Lato-HairlineItalic') format('svg'),
+         url('$path/Lato-HairlineItalic.ttf') format('ttf');   
+}
+            
+
+            

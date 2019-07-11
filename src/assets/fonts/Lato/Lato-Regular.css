@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "Lato-Regular";
+    src: url('$path/Lato-Regular.woff2') format('woff2'),
+         url('$path/Lato-Regular.woff') format('woff'),
+         url('$path/Lato-Regular.svg#Lato-Regular') format('svg'),
+         url('$path/Lato-Regular.ttf') format('ttf');   
+}
+            
+
+            

@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "Raleway-ExtraLight";
+    src: url('$path/Raleway-ExtraLight.woff2') format('woff2'),
+         url('$path/Raleway-ExtraLight.woff') format('woff'),
+         url('$path/Raleway-ExtraLight.svg#Raleway-ExtraLight') format('svg'),
+         url('$path/Raleway-ExtraLight.ttf') format('ttf');   
+}
+            
+
+            

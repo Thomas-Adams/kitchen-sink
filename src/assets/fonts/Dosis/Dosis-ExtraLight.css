@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "Dosis-ExtraLight";
+    src: url('$path/Dosis-ExtraLight.woff2') format('woff2'),
+         url('$path/Dosis-ExtraLight.woff') format('woff'),
+         url('$path/Dosis-ExtraLight.svg#Dosis-ExtraLight') format('svg'),
+         url('$path/Dosis-ExtraLight.ttf') format('ttf');   
+}
+            
+
+            

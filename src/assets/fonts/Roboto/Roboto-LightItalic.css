@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "Roboto-LightItalic";
+    src: url('$path/Roboto-LightItalic.woff2') format('woff2'),
+         url('$path/Roboto-LightItalic.woff') format('woff'),
+         url('$path/Roboto-LightItalic.svg#Roboto-LightItalic') format('svg'),
+         url('$path/Roboto-LightItalic.ttf') format('ttf');   
+}
+            
+
+            

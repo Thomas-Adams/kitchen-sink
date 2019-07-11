@@ -1,0 +1,89 @@
+
+
+@font-face {
+    font-family: "Cabin-SemiBoldItalic";
+    src: url('$path/Cabin-SemiBoldItalic.woff2') format('woff2'),
+         url('$path/Cabin-SemiBoldItalic.woff') format('woff'),
+         url('$path/Cabin-SemiBoldItalic.svg#Cabin-SemiBoldItalic') format('svg'),
+         url('$path/Cabin-SemiBoldItalic.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Cabin-Regular";
+    src: url('$path/Cabin-Regular.woff2') format('woff2'),
+         url('$path/Cabin-Regular.woff') format('woff'),
+         url('$path/Cabin-Regular.svg#Cabin-Regular') format('svg'),
+         url('$path/Cabin-Regular.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Cabin-MediumItalic";
+    src: url('$path/Cabin-MediumItalic.woff2') format('woff2'),
+         url('$path/Cabin-MediumItalic.woff') format('woff'),
+         url('$path/Cabin-MediumItalic.svg#Cabin-MediumItalic') format('svg'),
+         url('$path/Cabin-MediumItalic.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Cabin-Medium";
+    src: url('$path/Cabin-Medium.woff2') format('woff2'),
+         url('$path/Cabin-Medium.woff') format('woff'),
+         url('$path/Cabin-Medium.svg#Cabin-Medium') format('svg'),
+         url('$path/Cabin-Medium.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Cabin-Bold";
+    src: url('$path/Cabin-Bold.woff2') format('woff2'),
+         url('$path/Cabin-Bold.woff') format('woff'),
+         url('$path/Cabin-Bold.svg#Cabin-Bold') format('svg'),
+         url('$path/Cabin-Bold.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Cabin-Italic";
+    src: url('$path/Cabin-Italic.woff2') format('woff2'),
+         url('$path/Cabin-Italic.woff') format('woff'),
+         url('$path/Cabin-Italic.svg#Cabin-Italic') format('svg'),
+         url('$path/Cabin-Italic.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Cabin-SemiBold";
+    src: url('$path/Cabin-SemiBold.woff2') format('woff2'),
+         url('$path/Cabin-SemiBold.woff') format('woff'),
+         url('$path/Cabin-SemiBold.svg#Cabin-SemiBold') format('svg'),
+         url('$path/Cabin-SemiBold.ttf') format('ttf');   
+}
+            
+
+            
+
+@font-face {
+    font-family: "Cabin-BoldItalic";
+    src: url('$path/Cabin-BoldItalic.woff2') format('woff2'),
+         url('$path/Cabin-BoldItalic.woff') format('woff'),
+         url('$path/Cabin-BoldItalic.svg#Cabin-BoldItalic') format('svg'),
+         url('$path/Cabin-BoldItalic.ttf') format('ttf');   
+}
+            
+
+            

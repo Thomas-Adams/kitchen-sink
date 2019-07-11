@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "Roboto-ThinItalic";
+    src: url('$path/Roboto-ThinItalic.woff2') format('woff2'),
+         url('$path/Roboto-ThinItalic.woff') format('woff'),
+         url('$path/Roboto-ThinItalic.svg#Roboto-ThinItalic') format('svg'),
+         url('$path/Roboto-ThinItalic.ttf') format('ttf');   
+}
+            
+
+            

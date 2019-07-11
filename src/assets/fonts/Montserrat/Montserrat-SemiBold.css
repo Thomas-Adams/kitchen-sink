@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "Montserrat-SemiBold";
+    src: url('$path/Montserrat-SemiBold.woff2') format('woff2'),
+         url('$path/Montserrat-SemiBold.woff') format('woff'),
+         url('$path/Montserrat-SemiBold.svg#Montserrat-SemiBold') format('svg'),
+         url('$path/Montserrat-SemiBold.ttf') format('ttf');   
+}
+            
+
+            

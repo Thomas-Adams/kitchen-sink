@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "Poppins-SemiBoldItalic";
+    src: url('$path/Poppins-SemiBoldItalic.woff2') format('woff2'),
+         url('$path/Poppins-SemiBoldItalic.woff') format('woff'),
+         url('$path/Poppins-SemiBoldItalic.svg#Poppins-SemiBoldItalic') format('svg'),
+         url('$path/Poppins-SemiBoldItalic.ttf') format('ttf');   
+}
+            
+
+            

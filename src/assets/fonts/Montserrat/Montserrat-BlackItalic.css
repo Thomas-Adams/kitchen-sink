@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "Montserrat-BlackItalic";
+    src: url('$path/Montserrat-BlackItalic.woff2') format('woff2'),
+         url('$path/Montserrat-BlackItalic.woff') format('woff'),
+         url('$path/Montserrat-BlackItalic.svg#Montserrat-BlackItalic') format('svg'),
+         url('$path/Montserrat-BlackItalic.ttf') format('ttf');   
+}
+            
+
+            

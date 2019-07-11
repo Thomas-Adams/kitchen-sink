@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "Montserrat-Bold";
+    src: url('$path/Montserrat-Bold.woff2') format('woff2'),
+         url('$path/Montserrat-Bold.woff') format('woff'),
+         url('$path/Montserrat-Bold.svg#Montserrat-Bold') format('svg'),
+         url('$path/Montserrat-Bold.ttf') format('ttf');   
+}
+            
+
+            

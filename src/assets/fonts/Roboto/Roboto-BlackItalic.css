@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "Roboto-BlackItalic";
+    src: url('$path/Roboto-BlackItalic.woff2') format('woff2'),
+         url('$path/Roboto-BlackItalic.woff') format('woff'),
+         url('$path/Roboto-BlackItalic.svg#Roboto-BlackItalic') format('svg'),
+         url('$path/Roboto-BlackItalic.ttf') format('ttf');   
+}
+            
+
+            

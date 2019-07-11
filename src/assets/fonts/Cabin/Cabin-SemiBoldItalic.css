@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "Cabin-SemiBoldItalic";
+    src: url('$path/Cabin-SemiBoldItalic.woff2') format('woff2'),
+         url('$path/Cabin-SemiBoldItalic.woff') format('woff'),
+         url('$path/Cabin-SemiBoldItalic.svg#Cabin-SemiBoldItalic') format('svg'),
+         url('$path/Cabin-SemiBoldItalic.ttf') format('ttf');   
+}
+            
+
+            

@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "Dosis-ExtraBold";
+    src: url('$path/Dosis-ExtraBold.woff2') format('woff2'),
+         url('$path/Dosis-ExtraBold.woff') format('woff'),
+         url('$path/Dosis-ExtraBold.svg#Dosis-ExtraBold') format('svg'),
+         url('$path/Dosis-ExtraBold.ttf') format('ttf');   
+}
+            
+
+            

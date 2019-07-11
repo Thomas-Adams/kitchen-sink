@@ -1,1 +1,96 @@
-/* You can add global styles to this file, and also import other style files */
+@import 'sass/typography/font-faces';
+@import 'sass/typography/line-icons';
+@import 'sass/color/material/deep-purple';
+@import '../node_modules/bootstrap/scss/functions';
+@import '../node_modules/bootstrap/scss/mixins';
+@import '../node_modules/bootstrap/scss/variables';
+
+$font-family-sans-serif: Abel, sans-serif;
+$font-size-base: 1.1rem;
+
+@import '../node_modules/bootstrap/scss/reboot';
+
+
+html,
+body,
+* {
+    font-family: $font-family-sans-serif;
+}
+
+body {
+    background-color: $background-lighter;
+    color: $color-normal;
+    margin: 0;
+    padding: 0;
+}
+
+
+$nav-menu-top-position: 5em;
+.menu {
+    background-color: $secondary-color;
+    color: $primary-text-color;
+    height: 400px;
+    overflow: hidden;
+    position: relative;
+    width: 300px;
+
+    a {
+        color: $primary-text-color;
+        text-decoration: none;
+
+        &:hover {
+            color: $secondary-adjacent-color;
+        }
+    }
+
+    ul.menu__level {
+        list-style: none;
+        padding-left: 2.5em;
+        .menu__item {
+            margin-bottom: .75em;
+            margin-top: .75em;
+        }
+
+        &.active {
+            left: 0;
+            position: absolute;
+            top: $nav-menu-top-position;
+            transition: left ease-in .6s;
+        }
+
+        &.left {
+            left: -300px;
+            position: absolute;
+            top: $nav-menu-top-position;
+            transition: left ease-in .6s;
+        }
+        &.right {
+            left: 300px;
+            position: absolute;
+            top: $nav-menu-top-position;
+            transition: left ease-in .6s;
+        }
+
+    }
+
+    #breadcrumbs {
+
+        border-bottom: 1px solid $background-normal;
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        margin-top: 2.5em;
+        padding-bottom: .25em;
+        padding-left: 1.5em;
+
+        a {
+            .lni {
+                font-size: small;
+            }
+            margin-right: .5em;
+
+
+        }
+    }
+
+}

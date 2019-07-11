@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "Inconsolata-Bold";
+    src: url('$path/Inconsolata-Bold.woff2') format('woff2'),
+         url('$path/Inconsolata-Bold.woff') format('woff'),
+         url('$path/Inconsolata-Bold.svg#Inconsolata-Bold') format('svg'),
+         url('$path/Inconsolata-Bold.ttf') format('ttf');   
+}
+            
+
+            

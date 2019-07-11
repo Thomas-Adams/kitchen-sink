@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "PlayfairDisplay-BoldItalic";
+    src: url('$path/PlayfairDisplay-BoldItalic.woff2') format('woff2'),
+         url('$path/PlayfairDisplay-BoldItalic.woff') format('woff'),
+         url('$path/PlayfairDisplay-BoldItalic.svg#PlayfairDisplay-BoldItalic') format('svg'),
+         url('$path/PlayfairDisplay-BoldItalic.ttf') format('ttf');   
+}
+            
+
+            

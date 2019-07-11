@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "PlayfairDisplay-Regular";
+    src: url('$path/PlayfairDisplay-Regular.woff2') format('woff2'),
+         url('$path/PlayfairDisplay-Regular.woff') format('woff'),
+         url('$path/PlayfairDisplay-Regular.svg#PlayfairDisplay-Regular') format('svg'),
+         url('$path/PlayfairDisplay-Regular.ttf') format('ttf');   
+}
+            
+
+            
