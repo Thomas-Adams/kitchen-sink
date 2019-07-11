@@ -2,7 +2,7 @@
 
 export class AbstractNode<T> {
     id: T;
-    attributes: { [key: any]: any } = {};
+    attributes: { [key: string]: any } = {};
     _parent: AbstractNode<T> | null;
     _level: number;
     _children: Array<AbstractNode<T>> = [];
