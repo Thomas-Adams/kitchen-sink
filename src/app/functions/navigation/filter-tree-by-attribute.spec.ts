@@ -8,7 +8,6 @@ fdescribe('MenuItemComponent', () => {
     const menu = menuData as MenuItem;
     fit('Filter by name "Japan" should get a 1 element long result', () => {
         const result = filterTreeByAttribute(menu as MenuItem, 'japan', 'name');
-        console.log(JSON.stringify(result));
         expect(result.length).toBe(1);
     });
 });
